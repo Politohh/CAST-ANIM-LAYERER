@@ -41,15 +41,15 @@ overlay_anim_ON_base_anim.cast
 
 **Base animation** — full body walk cycle
 
-![base](https://raw.githubusercontent.com/Politohh/CAST-ANIM-LAYERER/main/pb_combatrun_right_loop.gif)
+<img src="https://raw.githubusercontent.com/Politohh/CAST-ANIM-LAYERER/main/base.gif">
 
 **Overlay animation** — upper body first raise
 
-![overlay](https://raw.githubusercontent.com/Politohh/CAST-ANIM-LAYERER/main/pt_rifle_stand_firstraise.gif)
+<img src="https://raw.githubusercontent.com/Politohh/CAST-ANIM-LAYERER/main/overlay.gif">
 
 **Result** — overlay layered on top of base
 
-![result](https://raw.githubusercontent.com/Politohh/CAST-ANIM-LAYERER/main/pt_rifle_stand_firstraise_ON_pb_combatrun_right_loop.gif)
+<img src="https://raw.githubusercontent.com/Politohh/CAST-ANIM-LAYERER/main/result.gif">
 
 ---
 
