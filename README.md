@@ -41,7 +41,7 @@ overlay_anim_ON_base_anim.cast
 
 **Base animation** — full body walk cycle
 
-![base](pb_combatrun_right_loop.gif)
+![base]([pb_combatrun_right_loop.gif](https://github.com/Politohh/CAST-ANIM-LAYERER/blob/main/pb_combatrun_right_loop.gif))
 
 **Overlay animation** — upper body first raise
 
